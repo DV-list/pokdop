@@ -46,5 +46,11 @@ notariat.ru
 lk.notariat.ru
 rosreestr.gov.ru
 zakupki.gov.ru
+//sber
+id.sber.ru/auth/authorize
+id.sber.ru/auth/token
+id.sber.ru/auth/userinfo
+cdn.sber.ru
+sber.ru
 //spam
 dtf.ru
