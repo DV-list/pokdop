@@ -47,9 +47,8 @@ lk.notariat.ru
 rosreestr.gov.ru
 zakupki.gov.ru
 //sber
-id.sber.ru/auth/authorize
-id.sber.ru/auth/token
-id.sber.ru/auth/userinfo
+id.sber.ru
+id.sberbank.ru
 online.sberbank.ru
 auth.sberbank.ru
 //spam
