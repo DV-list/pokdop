@@ -1,4 +1,4 @@
-//TRACKERS
+#TRACKERS
 sdk-api.apptracer.ru
 apptracer.ru
 trace-flow.ru
@@ -16,11 +16,8 @@ ads.vk.com
 vk-ad-site.ru
 vk-analytics.ru
 api.rustore.ru
-fp-back.facct.ru
-fp-back.f6.ru
-cdnweb.sberbank.ru
 sberdevices.ru
-//SPAM
+#SPAM
 dtf.ru
 vc.ru
 mobile-review.com
