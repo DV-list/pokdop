@@ -1,10 +1,10 @@
-#подтвержденный диапазон для FaceTime
+//подтвержденный диапазон для FaceTime
 17.248.192.0/22
-#используется для iMessage/FaceTime
+//используется для iMessage/FaceTime
 17.173.0.0/16
-#используется для iMessage/FaceTime
+//используется для iMessage/FaceTime
 17.178.0.0/16
-#используется для iMessage/FaceTime
+//используется для iMessage/FaceTime
 17.133.0.0/16
 17.252.0.0/16
 17.253.0.0/16
