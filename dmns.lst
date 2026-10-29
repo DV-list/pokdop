@@ -7,9 +7,9 @@ pocketcasts.com
 www.pocketcasts.com
 api.pocketcasts.com
 pca.st
-//MS
+//ONEDRIVE
 microsoftpersonalcontent.com
-//XBOX
+//XBOX_auth
 xboxlive.com
 www.xboxlive.com
 xboxservices.com
@@ -19,9 +19,7 @@ user.auth.xboxlive.com
 nintendo.net
 nintendo.com
 accounts.nintendo.com
-//EGS
-epicgames.com
-www.epicgames.com
+//EGS_claim
 store.epicgames.com
 accounts.epicgames.com
 launcher.store.epicgames.com
@@ -56,7 +54,6 @@ grouvee.com
 b-cdn.net
 www.grouvee.com
 nme.com
-www.dailymotion.com
 www.iqair.com
 flibusta.su
 tailscale.com
