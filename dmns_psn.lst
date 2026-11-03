@@ -1,9 +1,11 @@
+a01.cdn.update.playstation.org.edgesuite.net
 a192.d.akamai.net
 account.sony.com
 al02.cdn.update.playstation.net
 apollo.dl.playstation.net
 apollo2.dl.playstation.net
 b0.ww.np.dl.playstation.net
+b0.ww.np.dl.playstation.net.edgesuite.net
 crepo.ww.dl.playstation.net
 dau01.ps5.update.playstation.net
 dbr01.ps5.update.playstation.net
@@ -36,8 +38,11 @@ fuk01.ps5.update.playstation.net
 fus01.ps5.update.playstation.net
 get.net.playstation.net
 gs.ww.np.dl.playstation.net
+gs.ww.np.dl.playstation.net.edgesuite.net
 gs2.ww.prod.dl.playstation.net
+gs2.ww.prod.dl.playstation.net.edgesuite.net
 gst.prod.dl.playstation.net
+gst.prod.dl.playstation.net.edgesuite.net
 hau01.ps5.update.playstation.net
 hbr01.ps5.update.playstation.net
 hcn01.ps5.update.playstation.net
@@ -64,6 +69,7 @@ psndl.net
 rnps-crl.dl.playstation.net
 sf.api.np.km.playstation.net
 sgst.prod.dl.playstation.net
+sgst.prod.dl.playstation.net.edgesuite.net
 sie.sony.com
 sonyentertainmentnetwork.com
 themis.dl.playstation.net
