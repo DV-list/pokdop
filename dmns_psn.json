@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "account.sony.com",
+        "playstation.com",
+        "playstation.net",
+        "playstation.sony.akadns.net",
+        "psndl.net",
+        "sie.sony.com",
+        "sonyentertainmentnetwork.com",
+        "gs.ww.np.dl.playstation.net.edgesuite.net",
+        "b0.ww.np.dl.playstation.net.edgesuite.net",
+        "gs2.ww.prod.dl.playstation.net",
+        "gst.prod.dl.playstation.net",
+        "sgst.prod.dl.playstation.net",
+        "a01.cdn.update.playstation.org.edgesuite.net",
+        "a192.d.akamai.net"
+      ]
+    }
+  ]
+}
