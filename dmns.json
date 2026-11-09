@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ipinfo.io",
+        "2ip.io",
+        "pocketcasts.com",
+        "pca.st",
+        "microsoftpersonalcontent.com",
+        "xboxlive.com",
+        "xboxservices.com",
+        "nintendo.net",
+        "nintendo.com",
+        "epicgames.com",
+        "ubi.com",
+        "ubisoft.com",
+        "wbgames.com",
+        "wbagora.com",
+        "bungie.net",
+        "bungie.com",
+        "bungiegames.com",
+        "playfabapi.com",
+        "azureplayfab.com",
+        "videocdn.biz",
+        "vokino.pro",
+        "vokino.org",
+        "vokino.co",
+        "vokino.tv",
+        "videobase.biz",
+        "werkecdn.me",
+        "cdnsqu.com",
+        "consolemods.org",
+        "cfw.guide",
+        "grouvee.com",
+        "b-cdn.net",
+        "nme.com",
+        "iqair.com",
+        "flibusta.su",
+        "tailscale.com",
+        "eurogamer.net",
+        "podkop.net"
+      ]
+    }
+  ]
+}
