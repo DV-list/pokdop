@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "apptracer.ru",
+        "trace-flow.ru",
+        "nuc-cdp.digital.gov.ru",
+        "nuc-cdp.voskhod.ru",
+        "privacy-cs.mail.ru",
+        "top-fwz1.mail.ru",
+        "trk.mail.ru",
+        "telega.info",
+        "ad.vk.com",
+        "ads.vk.com",
+        "vk-ad-site.ru",
+        "vk-analytics.ru",
+        "stats.vk-portal.net",
+        "akashi.vk-portal.net",
+        "r0.mradx.net",
+        "r.mradx.net",
+        "r3.mail.ru",
+        "r0.mail.ru",
+        "ad.mail.ru",
+        "tns-counter.ru",
+        "bid.vk.com",
+        "eh.vk.com",
+        "stats.dahlmessenger.com"
+      ]
+    }
+  ]
+}
