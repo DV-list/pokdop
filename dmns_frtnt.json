@@ -3,15 +3,16 @@
   "rules": [
     {
       "domain_suffix": [
-        "api.epicgames.dev",
-        "fortnite.com",
-        "js.hcaptcha.com",
-        "epicgames-download1.akamaized.net",
-        "cdn1.unrealengine.com",
-        "cdn2.unrealengine.com",
+        "epicgames.com",
+        "epicgames.dev",
+        "unrealengine.com",
+        "easyanticheat.net",
+        "eac-cdn.com",
         "easy.ac",
-        "download.eac-cdn.com",
-        "download-alt.easyanticheat.net"
+        "epicgames-download1.akamaized.net",
+        "hcaptcha.com",
+        "battleye.com",
+        "fortnite.com"
       ]
     }
   ]
