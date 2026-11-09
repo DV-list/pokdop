@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.epicgames.dev",
+        "fortnite.com",
+        "js.hcaptcha.com",
+        "epicgames-download1.akamaized.net",
+        "cdn1.unrealengine.com",
+        "cdn2.unrealengine.com",
+        "easy.ac",
+        "download.eac-cdn.com",
+        "download-alt.easyanticheat.net"
+      ]
+    }
+  ]
+}
